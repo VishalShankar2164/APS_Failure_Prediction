@@ -1,6 +1,5 @@
 # APS Failure Prediction
 
- ## Project Overview
 This project focuses on building a predictive model for detecting component failures in the Air Pressure System (APS) of trucks. The APS is critical for various functions such as braking and gear changes. Detecting failures early in this system can prevent unnecessary repairs and reduce maintenance costs.
 
 ## Problem Statement
